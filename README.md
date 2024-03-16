@@ -15,19 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [fbadf](bafbf)
-
-- 👯 I’m looking to collaborate on [bfdbadf](fbfd)
-
-- 🤝 I’m looking for help with [fdbfb](fbafdbad)
-
-- 📝 I regularly write articles on [fga](fga)
-
-- 📄 Know about my experiences [fgafdg](fgafdg)
-
-- ⚡ Fun fact **fgbadfg**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
