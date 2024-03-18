@@ -1,6 +1,6 @@
 ### Hi there 👋🏾! My name is Aparna and welcome to my GitHub
 <hr>
-<h3 style="color: #fbb7c9">I am a data analyst who appreciates the power and value of data. I am enthusiastic about developing and implementing information-driven strategies</h3>
+<h3>I am a data analyst who appreciates the power and value of data. I am enthusiastic about developing and implementing information-driven strategies</h3>
 
 - ⭐ I’m currently learning **Python, SQL, R,**
 
@@ -13,8 +13,10 @@
 <table cellspacing = "10">
   <tr>
     <td>  <table border = "1">
+      <th>Programming Language </th>
+      <th> Level of proficiency </th>
         <tr>
-          <td>PowerBi</td>
+          <td>Power Bi</td>
           <td>⭐️⭐️⭐️⭐️⭐️</td>
         </tr>
         <tr>
@@ -27,7 +29,7 @@
         </tr>
         <tr>
           <td>Python</td>
-          <td>⭐️⭐️</td>
+          <td>⭐️⭐️⭐️</td>
         </tr>
       </table>
 
