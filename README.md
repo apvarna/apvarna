@@ -13,23 +13,27 @@
 <table cellspacing = "10">
   <tr>
     <td>  <table border = "1">
-      <th>Programming Language </th>
+      <th> Programming Language / Tools </th>
       <th> Level of proficiency </th>
         <tr>
+            <td>Excel</td>
+            <td>⭐️⭐️⭐️⭐️⭐️</td>
+          </tr>
+        <tr>
           <td>Power Bi</td>
-          <td>⭐️⭐️⭐️⭐️⭐️</td>
+          <td>⭐️⭐⭐️⭐️</td>
         </tr>
         <tr>
           <td>R Programming</td>
           <td>⭐️⭐️⭐️⭐️</td>
         </tr>
         <tr>
-          <td>SQL</td>
-          <td>⭐️⭐️⭐️</td>
-        </tr>
-        <tr>
           <td>Python</td>
           <td>⭐️⭐️⭐️</td>
+        </tr>
+              <tr>
+          <td>SQL</td>
+          <td>⭐️⭐️</td>
         </tr>
       </table>
 
