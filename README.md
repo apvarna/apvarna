@@ -2,11 +2,11 @@
 <hr>
 <h3>I am an aspiring data analyst who appreciates the power and value of data. </h3>
 
-- ⭐ I’m currently learning: **Python, SQL, R,**
+- ⭐ **What I'm currently learning**: Python, SQL, R
 
-- ⭐ How to reach me: **www.linkedin.com/in/aparna-varma**
+- ⭐ **How to reach me**: [My LinkedIn Handle](www.linkedin.com/in/aparna-varma)
 
-- ⭐ Fun fact: **I am an avid reader. My first recreational project I completed was an analysis of my reading habits!**
+- ⭐ **Fun fact**: I am an avid reader. I'm always looking for recommendations to add to my TBR
 
 <h3 align="left">Languages and tools:</h3>
 
@@ -20,7 +20,7 @@
             <td>⭐️⭐️⭐️⭐️⭐️</td>
           </tr>
         <tr>
-          <td>Power Bi</td>
+          <td>Power BI</td>
           <td>⭐️⭐⭐️⭐️</td>
         </tr>
         <tr>
