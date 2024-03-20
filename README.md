@@ -1,6 +1,6 @@
 ### Hi there 👋🏾! My name is Aparna and welcome to my GitHub
 <hr>
-<h3>I am a data analyst who appreciates the power and value of data. I am enthusiastic about developing and implementing information-driven strategies</h3>
+<h3>I am an aspiring data analyst who appreciates the power and value of data. </h3>
 
 - ⭐ I’m currently learning **Python, SQL, R,**
 
