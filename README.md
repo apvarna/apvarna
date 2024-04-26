@@ -6,7 +6,6 @@
 
 - ⭐ **How to reach me**: [My LinkedIn Handle](www.linkedin.com/in/aparna-varma)
 
-- ⭐ **Fun fact**: I am an avid reader. I'm always looking for recommendations to add to my TBR
 
 <h3 align="left">Languages and tools:</h3>
 
