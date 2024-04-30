@@ -14,29 +14,34 @@
     <td>  <table border = "1">
       <th> Programming Language / Tools </th>
       <th> Level of proficiency </th>
+      <th> Comments </th>
         <tr>
             <td>Excel</td>
             <td>⭐️⭐️⭐️⭐️⭐️</td>
+            <td>       </td>
           </tr>
         <tr>
           <td>Power BI</td>
           <td>⭐️⭐⭐️⭐️</td>
+          <td>       </td>
         </tr>
         <tr>
-          <td>R Programming</td>
+          <td>R</td>
           <td>⭐️⭐️⭐️⭐️</td>
+          <td>       </td>
+        </tr>
+        <tr>
+          <td>SQL</td>
+          <td>⭐️⭐️⭐️</td>
+          <td>       </td>
         </tr>
         <tr>
           <td>Python</td>
-          <td>⭐️⭐️⭐️</td>
-        </tr>
-              <tr>
-          <td>SQL</td>
           <td>⭐️⭐️</td>
+          <td>       </td>
         </tr>
       </table>
 
     
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apvarna&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="apvarna" /></p>
 
