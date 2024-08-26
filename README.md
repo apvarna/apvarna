@@ -18,7 +18,9 @@
         <tr>
             <td>Excel</td>
             <td>⭐️⭐️⭐️⭐️⭐️</td>
-            <td>       </td>
+            <td>   <li> pivot tables, data validation, conditional formatting </li> 
+                    <li> Data visualization with charts and graphs </li> 
+                    <li> Data visualization with charts and graphs </li>     </td>
           </tr>
         <tr>
           <td>Power BI</td>
