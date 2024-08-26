@@ -37,7 +37,7 @@
         </tr>
         <tr>
           <td>Python</td>
-          <td>⭐️⭐️</td>
+          <td>⭐️⭐️⭐️</td>
           <td>       </td>
         </tr>
       </table>
