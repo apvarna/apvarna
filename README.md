@@ -2,11 +2,6 @@
 <hr>
 <h3>I am an aspiring data analyst who appreciates the power and value of data. </h3>
 
-- ⭐ **What I'm currently learning**: Python, SQL, R
-
-- ⭐ **How to reach me**: [My LinkedIn Handle](www.linkedin.com/in/aparna-varma)
-
-
 <h3 align="left">Languages and tools:</h3>
 
 <table cellspacing = "10">
