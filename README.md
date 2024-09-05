@@ -30,7 +30,7 @@
           <td>⭐️⭐️⭐️⭐️</td>
           <td>   <li> Statistical analysis (regression, ANOVA, hypothesis testing) </li>
                   <li> Data visualization with ggplot2, plotly </li> 
-                    <li> Reproducible research with R Markdown </li>     </td>
+                    <li> R Markdown reporting </li>     </td>
         </tr>
         <tr>
           <td>SQL</td>
