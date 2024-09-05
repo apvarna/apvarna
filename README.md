@@ -16,7 +16,7 @@
             <td>⭐️⭐️⭐️⭐️⭐️</td>
             <td>   <li> Pivot tables, data validation, conditional formatting </li> 
                     <li> Scenario analysis, data tables, Solver for optimization </li> 
-                    <li> Data visualization with charts and graphs </li>     </td>
+                    <li> Data visualization </li>     </td>
           </tr>
         <tr>
           <td>Power BI</td>
@@ -29,7 +29,7 @@
           <td>R</td>
           <td>⭐️⭐️⭐️⭐️</td>
           <td>   <li> Statistical analysis (regression, ANOVA, hypothesis testing) </li>
-                  <li> Data visualization with ggplot2, plotly </li> 
+                  <li> Data visualization with ggplot2/plotly </li> 
                     <li> R Markdown reporting </li>     </td>
         </tr>
         <tr>
@@ -42,8 +42,8 @@
         <tr>
           <td>Python</td>
           <td>⭐️⭐️⭐️</td>
-          <td>   <li> Machine learning with scikit-learn (classification, regression, model evaluation) </li>
-                  <li> Data manipulation with pandas (dataframes, groupby, merging) </li> 
+          <td>   <li> Machine learning (classification, regression, model evaluation) </li>
+                  <li> Data manipulation (dataframes, groupby, merging) </li> 
                     <li> Automation scripts (web scraping, data extraction) </li>    </td>
         </tr>
       </table>
