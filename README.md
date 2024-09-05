@@ -2,6 +2,7 @@
 <hr>
 <h3>I am an aspiring data analyst who appreciates the power and value of data. </h3>
 
+
 <h3 align="left">Languages and tools:</h3>
 
 <table cellspacing = "10">
