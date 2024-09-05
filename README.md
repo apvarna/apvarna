@@ -15,7 +15,7 @@
             <td>Excel</td>
             <td>⭐️⭐️⭐️⭐️⭐️</td>
             <td>   <li> Pivot tables, data validation, conditional formatting </li> 
-                    <li> Data visualization with charts and graphs </li> 
+                    <li> Scenario analysis, data tables, Solver for optimization </li> 
                     <li> Data visualization with charts and graphs </li>     </td>
           </tr>
         <tr>
