@@ -1,7 +1,5 @@
 ### Hi there 👋🏾! My name is Aparna and welcome to my GitHub
 <hr>
-<h3>I am an aspiring data analyst who appreciates the power and value of data. </h3>
-
 
 <h3 align="left">Languages and tools:</h3>
 
